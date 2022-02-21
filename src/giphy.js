@@ -19,7 +19,6 @@ const fixes = [
   'https://media.giphy.com/media/5bHIZ3ok4UpJS/giphy.gif',
   'https://media.giphy.com/media/PrEUkNFD9pN2o/giphy.gif',
   'https://media.giphy.com/media/xT1R9T9auEhJkm87Di/giphy.gif',
-  'https://media.giphy.com/media/3o6wreJw9IA7HRQ87u/giphy.gif',
   'https://media.giphy.com/media/Ml9xFNKLMd8FW/giphy.gif',
 ];
 
@@ -28,7 +27,6 @@ const defaults = [
   'https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif',
   'https://media.giphy.com/media/d68IdpvmAHohx5NMEV/giphy.gif',
   'https://media.giphy.com/media/WV9Xx9itqEIu8GQloO/giphy.gif',
-  'https://media.giphy.com/media/xUA7aMYThXDVx4y5O0/giphy.gif',
   'https://media.giphy.com/media/pqcKfVvWRowVy/giphy.gif',
 ];
 
