@@ -25334,14 +25334,14 @@ const features = [
   'https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif',
   'https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif',
   'https://media.giphy.com/media/oymRJRRiiPaVzDnIF1/giphy.gif',
-  'https://media.giphy.com/media/PI2ZELDbBa4Bq/giphy.gif',
+  'https://media.giphy.com/media/10U3G1kVJ3eNbO/giphy.gif',
 ];
 
 const fixes = [
   'https://media.giphy.com/media/5bHIZ3ok4UpJS/giphy.gif',
   'https://media.giphy.com/media/PrEUkNFD9pN2o/giphy.gif',
   'https://media.giphy.com/media/xT1R9T9auEhJkm87Di/giphy.gif',
-  'https://media.giphy.com/media/Ml9xFNKLMd8FW/giphy.gif',
+  'https://media.giphy.com/media/3o6ZteCOT5RO3FPBV6/giphy.gif',
 ];
 
 const defaults = [
