@@ -25345,7 +25345,8 @@ const fixes = [
 ];
 
 const defaults = [
-  'https://media.giphy.com/media/l3q2wJsC23ikJg9xe/giphy.gif',
+  'https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif',
+  'https://media.giphy.com/media/gFW9rRpOkMRBY2KF6s/giphy.gif',
   'https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif',
   'https://media.giphy.com/media/d68IdpvmAHohx5NMEV/giphy.gif',
   'https://media.giphy.com/media/WV9Xx9itqEIu8GQloO/giphy.gif',
