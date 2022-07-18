@@ -25339,7 +25339,7 @@ const features = [
 
 const fixes = [
   'https://media.giphy.com/media/5bHIZ3ok4UpJS/giphy.gif',
-  'https://media.giphy.com/media/PrEUkNFD9pN2o/giphy.gif',
+  'https://media.giphy.com/media/lVBtp4SRW6rvDHf1b6/giphy-downsized-large.gif',
   'https://media.giphy.com/media/xT1R9T9auEhJkm87Di/giphy.gif',
   'https://media.giphy.com/media/3o6ZteCOT5RO3FPBV6/giphy.gif',
 ];
